@@ -22,4 +22,7 @@ Developed and maintained various conference talks, online training, and in-perso
 
 Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
 - Contributed to open source projects
+
 zmiana z main
+
+
